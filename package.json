@@ -1,0 +1,6 @@
+{
+  "name": "typescriptdemo",
+  "devDependencies": {
+    "@types/jquery": "^2.0.41"
+  }
+}
